@@ -1,2 +1,2 @@
 # Spark-Bigdata
-Python_
+Spark와 빅데이터(클러스터)
